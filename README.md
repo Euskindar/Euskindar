@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euskindar" alt="euskindar" /></a> </p>
 
-- 🔭 Actualmente estoy dedicando mi tiempo a [Trabajo de Fin de Grado](https://github.com/Euskindar/TFG)
+- 🔭 Actualmente estoy dedicando mi tiempo a mi [Trabajo de Fin de Grado](https://github.com/Euskindar/TFG)
 
 - 📫 ¿Cómo encontrarme? **julenjph@gmail.com**
 
