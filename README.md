@@ -11,7 +11,7 @@
 
 - 📄 Si quieres sabe más de mi experiencia visita [www.linkedin.com/in/julen-perez-hernandez](www.linkedin.com/in/julen-perez-hernandez)
 
-- ⚡ Algo extra **GAMER**
+- ⚡ Algo extra: **GAMER**💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
