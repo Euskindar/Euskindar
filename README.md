@@ -1,17 +1,17 @@
 <h1 align="center">Hola! 👋, soy Julen Pérez</h1>
-<h3 align="center">Estudiante de Ingeniería Informática finalizando sus estudios en la UCO.</h3>
+<h3 align="center">Ingeniero Informático junior.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euskindar&label=Profile%20views&color=0e75b6&style=flat" alt="euskindar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euskindar" alt="euskindar" /></a> </p>
 
-- 🔭 Actualmente estoy dedicando mi tiempo a mi [Trabajo de Fin de Grado](https://github.com/Euskindar/TFG)
+- 🔭 Actualmente estoy dedicando mi tiempo a mi [desarrollo personal y profesional](https://github.com/Euskindar)
 
-- 📫 ¿Cómo encontrarme? **julenjph@gmail.com**
+- 📫 ¿Cómo encontrarme? **julenjph@hotmail.com**
 
 - 📄 Si quieres sabe más de mi experiencia visita [www.linkedin.com/in/julen-perez-hernandez](www.linkedin.com/in/julen-perez-hernandez)
 
-- ⚡ Algo extra: **GAMER**💻
+- ⚡ Algo extra: **GAMER**💻 Y también me encanta el **hardware**, la personalización de periféricos o pintar miniaturas.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
