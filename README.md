@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, soy Julen Pérez</h1>
+<h1 align="center">Hola! 👋, soy Julen Pérez Hernández</h1>
 <h3 align="center">Ingeniero Informático junior.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euskindar&label=Profile%20views&color=0e75b6&style=flat" alt="euskindar" /> </p>
