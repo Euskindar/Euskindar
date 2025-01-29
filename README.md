@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euskindar" alt="euskindar" /></a> </p>
 
-- 🔭 Actualmente estoy dedicando mi tiempo a mi [desarrollo personal y profesional](https://github.com/Euskindar)
+## 🔗 Links
 
-- 📫 ¿Cómo encontrarme? **julenjph@hotmail.com**
+- 🔭 Actualmente estoy dedicando mi tiempo a mi **desarrollo personal y profesional**: [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Euskindar)
 
-- 📄 Si quieres sabe más de mi experiencia visita [www.linkedin.com/in/julen-perez-hernandez](www.linkedin.com/in/julen-perez-hernandez)
+- 📫 ¿Cómo encontrarme? 📩 **julenjph@hotmail.com**
+
+- 📄 Si quieres sabe más de mi experiencia visita mi: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 - ⚡ Algo extra: **GAMER**💻 Y también me encanta el **hardware**, la personalización de periféricos o pintar miniaturas.
 
